@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Inside testSpaceXEndpoint test]]>
+    </line>
+    <line>
+      <![CDATA[Response Status - 200]]>
+    </line>
+    <line>
+      <![CDATA[Response time - 0]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="6417" started-at="2020-12-14T05:49:09Z" finished-at="2020-12-14T05:49:15Z">
+    <groups>
+    </groups>
+    <test name="testngTest" duration-ms="6417" started-at="2020-12-14T05:49:09Z" finished-at="2020-12-14T05:49:15Z">
+      <class name="com.sample.maven.mvntest.tests">
+        <test-method status="PASS" signature="testSpaceXEndpoint()[pri:0, instance:com.sample.maven.mvntest.tests@1996cd68]" name="testSpaceXEndpoint" duration-ms="6388" started-at="2020-12-14T11:19:09Z" finished-at="2020-12-14T11:19:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Inside testSpaceXEndpoint test]]>
+            </line>
+            <line>
+              <![CDATA[Response Status - 200]]>
+            </line>
+            <line>
+              <![CDATA[Response time - 0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSpaceXEndpoint -->
+      </class> <!-- com.sample.maven.mvntest.tests -->
+    </test> <!-- testngTest -->
+  </suite> <!-- Suite1 -->
+</testng-results>
